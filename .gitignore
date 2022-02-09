@@ -1,0 +1,11 @@
+*.psd
+*.db
+*.log
+*.zip
+/storage/cache
+/storage/plugins
+/FILES
+/vendor
+/.vscode
+config.php
+workspace.code-workspace
